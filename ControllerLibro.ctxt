@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ControllerLibro
+comment1.params=
+comment1.target=ControllerLibro()
+comment2.params=
+comment2.target=void\ actualizarPantalla()
+comment3.params=
+comment3.target=void\ guardarCambios()
+comment4.params=
+comment4.target=void\ registrarDevolucion()
+comment5.params=
+comment5.target=void\ registrarPrestamo()
+numComments=6
